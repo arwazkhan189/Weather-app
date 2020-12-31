@@ -8,8 +8,8 @@ A simple weather app created using HTML, CSS, JavaScript, and openweather API.
 
 # Demo images
 <code>
-<img  height='400' src="https://github.com/arwazkhan189/Weather-app/blob/main/demo%20images/default.png">
-<img  height='400' src="https://github.com/arwazkhan189/Weather-app/blob/main/demo%20images/clouds.png">
-<img  height='400' src="https://github.com/arwazkhan189/Weather-app/blob/main/demo%20images/rain.jpg">
-<img  height='400' src="https://github.com/arwazkhan189/Weather-app/blob/main/demo%20images/night.jpg">
+<img  height='300' src="https://github.com/arwazkhan189/Weather-app/blob/main/demo%20images/default.png">
+<img  height='300' src="https://github.com/arwazkhan189/Weather-app/blob/main/demo%20images/clouds.png">
+<img  height='300' src="https://github.com/arwazkhan189/Weather-app/blob/main/demo%20images/rain.jpg">
+<img  height='300' src="https://github.com/arwazkhan189/Weather-app/blob/main/demo%20images/night.jpg">
 </code>
