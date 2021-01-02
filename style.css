@@ -1,0 +1,51 @@
+
+    body{
+    /*background-color: skyblue;*/
+    background: skyblue ;
+    font-family: 'Langar', cursive;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-variant: small-caps;
+    font-weight: bold;
+    }
+
+    #header{
+    margin-top: 50px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    }
+
+    #header h2{
+    font-weight: bold;
+    text-decoration: underline ;
+    color: #fff;
+    }
+
+    .card{
+    border: 1px solid transparent;
+    border-radius: 20px;
+    background-color: rgba(245, 245, 245, 0.4);
+    box-shadow: 2px 2px 2px grey;
+    }
+
+    .inputcity{
+    background-color: transparent;
+    }
+
+    .location{
+    font-size: larger;
+    }
+
+    .date{
+    font-size: small;
+    }
+    
+    .temp{
+    font-size: 6vh;
+    }
+
+    .weather{
+    font-size: x-large;
+    }
