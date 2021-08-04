@@ -1,6 +1,6 @@
       //Api details
         const weatherApi = {
-            key : "OPEN_WEATHER_API_KEY",//75816751e6b891f08181f25c7f69e532
+            key : "75816751e6b891f08181f25c7f69e532",
             baseUrl : "https://api.openweathermap.org/data/2.5/weather"
         };
         //getting city name from user
